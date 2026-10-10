@@ -1,0 +1,12 @@
+Enter marks for student 1 (0-100): 25
+Enter marks for student 2 (0-100): 40
+Enter marks for student 3 (0-100): 80
+Enter marks for student 4 (0-100): 90
+Enter marks for student 5 (0-100): 95
+
+--- Student Marks Analysis ---
+Student Marks: [25, 40, 80, 90, 95]
+Total Marks: 330
+Average Marks: 66.0
+Highest Marks: 95
+Lowest Marks: 25
